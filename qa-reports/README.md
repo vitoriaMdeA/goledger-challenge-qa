@@ -37,3 +37,13 @@ Todos os documentos estão organizados na pasta `qa-reports`. Clique nos links a
 ---
 
 
+## 🤖 Automação E2E (Playwright)
+
+Para complementar a validação manual, desenvolvi uma suíte de testes E2E utilizando **Playwright + TypeScript**. 
+
+### Como executar os testes:
+
+1. Com a API e a Web rodando localmente, navegue até a pasta `web` e execute o comando abaixo:
+   ```bash
+   npx playwright test --headed
+    ```
