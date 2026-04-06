@@ -34,6 +34,9 @@ Todos os documentos estão organizados na pasta `qa-reports`. Clique nos links a
 * [IMP-002 - Melhoria: Gestão de Usuários](./IMP-002.pdf)
 * [IMP-003 - Melhoria: Seleção Inteligente de Livros/Tenants](./IMP-003.pdf)
 
+### 💡 Documento único com todos os reports
+* [ALL-REPORTS](./ALL-REPORTS.pdf)
+ *(Este documento contém todos os reports(BUG e Proposta de melhorias) para facilitar a visualização).*
 ---
 
 
